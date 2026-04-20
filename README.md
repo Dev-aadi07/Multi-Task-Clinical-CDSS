@@ -18,17 +18,45 @@
 
 ---
 
-## 📸 Interface Preview
+## 📸 Interface Showcase
 
-*(Insert high-quality screenshots here)*
+### 🔐 Authentication Layer
+<p align="center">
+  <img src="screenshots/login_page.png" width="700"/>
+</p>
+<p align="center"><i>Secure provider login with session-based authentication</i></p>
 
-| **Provider Authentication** | **Real-time Assessment & Simulation** |
-| :---: | :---: |
-| *Secure Login with Demo Credentials* | *Interactive T=5 Sliding Window Visualizer* |
+---
 
-| **Patient Analytics & History** | **Clinical Report View** |
-| :---: | :---: |
-| *Doctor-specific Patient Database* | *Detailed Clinical Synthesis & Pipeline Telemetry* |
+### 📊 Clinical Dashboard
+<p align="center">
+  <img src="screenshots/dashboard.png" width="900"/>
+</p>
+<p align="center"><i>Real-time disease prediction with interactive controls</i></p>
+
+---
+
+### 🧾 Patient Analytics
+<p align="center">
+  <img src="screenshots/analytic_roster.png" width="900"/>
+</p>
+<p align="center"><i>Doctor-specific patient registry with longitudinal insights</i></p>
+
+---
+
+### 🧠 System Architecture
+<p align="center">
+  <img src="screenshots/system_architecture.png" width="800"/>
+</p>
+<p align="center"><i>Hybrid Multi-Task BiLSTM + Ensemble pipeline</i></p>
+
+---
+
+### 🔄 Workflow Pipeline
+<p align="center">
+  <img src="screenshots/work_flow.png" width="800"/>
+</p>
+<p align="center"><i>End-to-end data processing and prediction flow</i></p>
 
 ---
 
