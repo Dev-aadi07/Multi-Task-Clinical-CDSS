@@ -52,14 +52,6 @@
 
 ---
 
-### 🔄 Workflow Pipeline
-<p align="center">
-  <img src="screenshots/work_flow.png" width="400"/>
-</p>
-<p align="center"><i>End-to-end data processing and prediction flow</i></p>
-
----
-
 ## 🧠 Neural Architecture
 
 The system is built on a **Multi-Task Learning (MTL)** paradigm where shared feature extraction layers seamlessly capture inter-disease dependencies, allowing for more robust and holistic risk predictions.
