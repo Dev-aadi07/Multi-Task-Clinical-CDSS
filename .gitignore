@@ -1,0 +1,20 @@
+
+# Environments
+venv/
+.env
+
+# Build tools
+node_modules/
+dist/
+.vite/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Legacy/Archive (The folder we created to keep your project clean)
+research_and_legacy/
+
+# OS Specific
+.DS_Store
+Thumbs.db
