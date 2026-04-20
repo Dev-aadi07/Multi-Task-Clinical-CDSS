@@ -46,7 +46,7 @@
 
 ### 🧠 System Architecture
 <p align="center">
-  <img src="screenshots/system_architecture.png" width="800"/>
+  <img src="screenshots/system_architecture.png" width="400"/>
 </p>
 <p align="center"><i>Hybrid Multi-Task BiLSTM + Ensemble pipeline</i></p>
 
@@ -54,7 +54,7 @@
 
 ### 🔄 Workflow Pipeline
 <p align="center">
-  <img src="screenshots/work_flow.png" width="800"/>
+  <img src="screenshots/work_flow.png" width="400"/>
 </p>
 <p align="center"><i>End-to-end data processing and prediction flow</i></p>
 
