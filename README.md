@@ -26,9 +26,6 @@
 </p>
 <p align="center">
   <i>Secure provider login with session-based authentication</i>
-   <img src="https://img.shields.io/badge/Feature-Real--Time%20Inference-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/UI-Dark%20Mode-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Engine-Multi--Task%20AI-blue?style=flat-square"/>
 </p>
 
 ---
@@ -37,8 +34,11 @@
 <p align="center">
   <img src="screenshots/dashboard.png" width="900"/>
 </p>
+
 <p align="center">
   <i>Real-time disease prediction with interactive controls</i>
+</p>
+<p align="center">
    <img src="https://img.shields.io/badge/Feature-Real--Time%20Inference-success?style=flat-square"/>
   <img src="https://img.shields.io/badge/UI-Dark%20Mode-black?style=flat-square"/>
   <img src="https://img.shields.io/badge/Engine-Multi--Task%20AI-blue?style=flat-square"/>
@@ -52,6 +52,8 @@
 </p>
 <p align="center">
   <i>Doctor-specific patient registry with longitudinal insights</i>
+</p>
+<p align="center">
    <img src="https://img.shields.io/badge/Feature-Real--Time%20Inference-success?style=flat-square"/>
   <img src="https://img.shields.io/badge/UI-Dark%20Mode-black?style=flat-square"/>
   <img src="https://img.shields.io/badge/Engine-Multi--Task%20AI-blue?style=flat-square"/>
@@ -65,6 +67,8 @@
 </p>
 <p align="center">
   <i>Hybrid Multi-Task BiLSTM + Ensemble pipeline</i>
+</p>
+<p align="center">
    <img src="https://img.shields.io/badge/Feature-Real--Time%20Inference-success?style=flat-square"/>
   <img src="https://img.shields.io/badge/UI-Dark%20Mode-black?style=flat-square"/>
   <img src="https://img.shields.io/badge/Engine-Multi--Task%20AI-blue?style=flat-square"/>
