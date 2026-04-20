@@ -68,11 +68,6 @@
 <p align="center">
   <i>Hybrid Multi-Task BiLSTM + Ensemble pipeline</i>
 </p>
-<p align="center">
-   <img src="https://img.shields.io/badge/Feature-Real--Time%20Inference-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/UI-Dark%20Mode-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Engine-Multi--Task%20AI-blue?style=flat-square"/>
-</p>
 
 ---
 
